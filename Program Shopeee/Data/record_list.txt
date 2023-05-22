@@ -1,0 +1,40 @@
+Apple Mac Book
+shopeeee
+1
+1000
+8000.00
+Apple Ipad Air
+shopeeee
+2
+90
+60.00
+Apple Ipod
+shopeeee
+3
+7888
+60.00
+Apple Iphone 5C
+shopeeee
+6
+60
+800.00
+Apple Ipad 4
+shopeeee
+8
+500
+800.99
+Apple Pencil
+shopeeee
+14
+800
+70.67
+Apple mac book
+shopeeee
+15
+80
+9000.00
+Iphone 6
+shopeeee
+16
+800
+800.60

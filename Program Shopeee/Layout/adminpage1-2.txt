@@ -1,0 +1,10 @@
+*                                                                            	   *
+*                      	       Press <?> for Selection                             *
+*                                                                           	   *
+* 			 <1>  My Profile          	                      	   *
+* 			 <2>  Admin Settings (Record Management)                   *
+* 			 <3>  View Feedback          				   *
+*  			 <4>  View purchase sumarry				   *
+* 			 <0>  Feedback & Logout                                    *
+*                                                                                  *
+************************************************************************************

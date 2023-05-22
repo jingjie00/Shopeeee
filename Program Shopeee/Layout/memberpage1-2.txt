@@ -1,0 +1,9 @@
+*                      	       Press <?> for Selection                             *
+*                                                                           	   *
+*  				<1>  My Profile                                    *
+* 				<2>  Product Catalogue                             *
+* 			 	<3>  My Cart                                       *
+*  				<4>  Proceed to Payment                            *
+* 			 	<0>  Feedback & Logout                             *
+*										   *
+************************************************************************************

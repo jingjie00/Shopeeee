@@ -1,0 +1,27 @@
+﻿  Main menu.cpp
+D:\Assignment complete\Assignment complete\Feature.h(18,28): warning C4305:  'initializing': truncation from '__int64' to 'int'
+D:\Assignment complete\Assignment complete\Feature.h(18,16): warning C4309:  'initializing': truncation of constant value
+D:\Assignment complete\Assignment complete\Feature.h(20,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Feature.h(91,20): warning C4018:  '>': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Feature.h(91,42): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Feature.h(95,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Feature.h(135,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Feature.h(166,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Feature.h(207,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Feature.h(225,12): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Assignment complete\Assignment complete\Feature.h(237,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Feature.h(239,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Feature.h(246,33): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Feature.h(246,57): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Account.h(80,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Account.h(103,21): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Account.h(165,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Account.h(189,22): warning C4018:  '<': signed/unsigned mismatch
+D:\Assignment complete\Assignment complete\Record.h(278,23): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Assignment complete\Assignment complete\Record.h(480,7): warning C4101:  'again': unreferenced local variable
+D:\Assignment complete\Assignment complete\Payment.h(113,14): warning C4129:  ' ': unrecognized character escape sequence
+D:\Assignment complete\Assignment complete\Payment.h(173,50): warning C4129:  ' ': unrecognized character escape sequence
+D:\Assignment complete\Assignment complete\Main menu.cpp(16,22): warning C4101:  'profile_change': unreferenced local variable
+D:\Assignment complete\Assignment complete\Main menu.cpp(55,21): warning C4101:  'profile_change': unreferenced local variable
+  Assignment complete.vcxproj -> D:\Assignment complete\Debug\Assignment complete.exe
+  Assignment complete.vcxproj -> D:\Assignment complete\Debug\Assignment complete.pdb (Partial -> Full PDB)
